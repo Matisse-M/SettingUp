@@ -5,6 +5,7 @@ For this project:
 When the biggest square is found, the empty blocks will replace by 'x' !
 
 Evaluation:
+
        Algorithm app. - Generating column   3/3
         Algorithm app. - Generating edges   2/2
         Algorithm app. - Generating line    3/3
